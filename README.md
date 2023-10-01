@@ -9,7 +9,7 @@ Cameron Pillay - ST10083199
 # Demo Video: Youtube Link
 https://youtu.be/OmvPjMEz7fs
 
-# Minute Mind - A time tracking application was designed and created with the goal of allowing its users to manage, record as well as to view the allocated time that teams of software developers spend on client-issued projects.
+# Minute Mind - A time tracking application was designed and created with the goal of allowing its users to manage, record, as well as to view the allocated time spent on their goals, letting them be mindful of how each minute of their day is spent.
 
 Description ~ This application created for users to sign-up/login to a account, and the saving of timesheet entries is done using a Firebase authentication medium. Once an authorized user is logged in to use the application, they will be allowed to enter timesheet entries to specify the categories as well as the hours worked on each user project, which can be displayed and documented to the user. We as the MinuteMind software development creation team designed this application by using the installed features which consisted of Android Studio Electric Eel | 2022.1.1 (Jan 2023) as well as the in-built Android Studio emulator (the user must select API 25 as the device for the application to be compatible with the chosen emulator as conflicting choice of device selection may not execute the project) using the Kotlin coding language, which is required by the Varsity College (Durban-North campus) to be used to successfully complete this project. 
 
