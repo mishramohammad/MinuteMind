@@ -77,7 +77,4 @@ ___________________
 
 An app icon and image assets have been added to the final design.
 
-Error features: 
-- The team faced struggles trying to implement the graph for a user selectable period. The Graph does work, just not as intended.
-- The team faced struggles trying to implement the optional photograph inclusion in the application.
 
